@@ -1,16 +1,33 @@
-# eduhub
 
-A new Flutter project.
+# EduHub 📚✨
 
-## Getting Started
+EduHub is a Flutter mobile application designed to make learning accessible, engaging, and inclusive — aligning with **SDG 4: Quality Education**.
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 📘 Access curated educational resources
+- 🧑‍🏫 Connect with mentors or peers
+- 🔔 Receive important learning updates
+- 💡 Personalized study tools
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 Tech Stack
+- Flutter & Dart
+- Firebase (planned)
+- GitHub for version control
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🎯 Goal
+To bridge the gap in educational access by providing a lightweight and user-friendly mobile app for learners in underserved communities.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots (coming soon...)
+
+## 👩🏽‍💻 Created By
+Zamzam, Power Learn Project 2025
+
+---
+
+### 📎 Useful Links
+- [Flutter Documentation](https://docs.flutter.dev)
+- [GitHub Repo](https://github.com/mozam-tech/Eduhub)
+
+---
+
+> ✨ *Empowering learners, one click at a time.*
